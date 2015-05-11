@@ -31,7 +31,7 @@
 <h3>Compare</h3>
 
 <p>
-This is a placeholder for the comparison page.
+This is a placeholder for the comparison page. It is currently under development.
 </p>
 
 <p>
